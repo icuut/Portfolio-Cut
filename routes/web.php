@@ -11,7 +11,7 @@ Route::get('/', function () {
         'about' => 'Mahasiswi Teknik Informatika yang memiliki minat pada pengembangan teknologi, penelitian, analisis data, dan penulisan ilmiah. Saya percaya bahwa teknologi memiliki nilai ketika mampu memberikan solusi terhadap permasalahan nyata di masyarakat.',
         'email' => 'ctari455@gmail.com', // ganti dengan emailmu
         'socials' => [
-            'Github' => 'https://github.com/settings/profile',
+            'Github' => 'https://github.com/icuut',
             'LinkedIn' => 'https://www.linkedin.com/in/cut-tarina-8246b834b/',
             'Instagram' => 'https://www.instagram.com/cut_trna/',
         ]
